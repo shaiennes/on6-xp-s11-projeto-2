@@ -1,6 +1,6 @@
 //Nomes dos métodos para implementação:
 
-const model = require("../models/maravilhosas-models")
+const models = require("../models/maravilhosas-models")
 const helper = require('../helpers/helper')
 //getMaravilhosas
 
